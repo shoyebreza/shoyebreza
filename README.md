@@ -10,7 +10,12 @@
 
 --------------------
 
-# বাংলায় প্রোগ্রামিং রিসোর্সসমূহ
+
+## বাংলায় প্রোগ্রামিং রিসোর্সসমূহ
+
+<details>
+  <summary>Click to expand</summary>
+  
 > বাংলায় সহজবোধ্য প্রোগ্রামিং টিউটরিয়াল, রেফারেন্স এবং অন্যান্য প্রয়োজনীয় লিংকের তালিকা
 ---
 > <b>[Top 10 Essential Book Bundles for Programmers](https://www.patreon.com/kabirsplanet/shop/mastering-competitive-programming-book-138388?source=storefront)</b>
@@ -697,39 +702,6 @@
 * [Klassroom, Youtube Channel](https://www.youtube.com/c/KlassroomGlobal/)
 * [Aryan Kabir](https://www.youtube.com/@KabirsPlanet)
 
---
-#collected
-
-
-# My Project
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
-- [Collapsible Section Example](#collapsible-section-example)
-
-## Introduction
-This is the introduction to my project.
-
-## Features
-- Feature 1
-- Feature 2
-
-## Usage
-Instructions for usage.
-
-## Collapsible Section Example
-
-<details>
-  <summary>Click to expand</summary>
-  
-  ### Hidden Content
-  - Item 1
-  - Item 2
-  - Item 3
-
-  More detailed information or instructions can go here.
 </details>
 
 
