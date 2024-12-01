@@ -700,3 +700,36 @@
 --
 #collected
 
+
+# My Project
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Usage](#usage)
+- [Collapsible Section Example](#collapsible-section-example)
+
+## Introduction
+This is the introduction to my project.
+
+## Features
+- Feature 1
+- Feature 2
+
+## Usage
+Instructions for usage.
+
+## Collapsible Section Example
+
+<details>
+  <summary>Click to expand</summary>
+  
+  ### Hidden Content
+  - Item 1
+  - Item 2
+  - Item 3
+
+  More detailed information or instructions can go here.
+</details>
+
+
