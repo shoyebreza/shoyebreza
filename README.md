@@ -35,8 +35,9 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shoyebreza&theme=highcontrast&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoyebreza&theme=highcontrast&hide_border=true" alt="GitHub streak"/>
 </p>
+
 
 ---
 
