@@ -14,6 +14,7 @@
 
 ---
 
+
 ### 🛠️ Languages & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,php,laravel,react,nextjs,python,django,html,css,js,git,linux" />
@@ -21,28 +22,33 @@
 
 ---
 
-### 📈 GitHub Stats
-![Shoyeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoyebreza&show_icons=true&theme=radical)
+### 📊 GitHub Analytics
 
----
-
-### 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoyebreza&layout=compact&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/shoyebreza">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoyebreza&show_icons=true&theme=radical" alt="GitHub stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyebreza&layout=compact&theme=tokyonight" alt="Top languages"/>
+  </a>
+</p>
 
 ---
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=shoyebreza&theme=highcontrast&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shoyebreza&theme=highcontrast&hide_border=true" alt="GitHub streak"/>
+</p>
 
 ---
 
 ### 📊 Profile Summary
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoyebreza&theme=monokai)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoyebreza&theme=monokai" alt="Profile summary"/>
+</p>
 
 ---
 
 ### 🌐 Let's Connect
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/shoyebreza/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
