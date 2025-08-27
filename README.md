@@ -1,12 +1,59 @@
 ![logo](https://github.com/shoyebreza/shoyebreza/blob/main/profile.jpg)
-<h1 align="center"> Hi👋, I'm Shoyebreza </h1>
-<h3 align="center">Full stack Developer from Bangladesh </h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Shoyeb Reza</h1>
+<h3 align="center">Full Stack Developer | System Analyst | Tech Explorer</h3>
 
-- 🔭 I’m currently working on a Renowned software company As System Analyst.
-- 🌱 I’m currently learning Data Structure, Algorithm, And Problem solving with C/C++.
-- 💬 Ask me about Frontend Design, Development, Javascript, Data Structure, Algorithm, C/C++.
-- 📫 How to reach me: shoyebreza@gmail.com
-- ⚡ More about me : https://shoyebreza.github.io/portfolio/
+---
+
+### 👨‍💻 About Me
+- 🔭 Currently working as **System Analyst**  
+- 🌱 Learning **C++ | Data Structures | Algorithms**  
+- 💬 Ask me about **Frontend Design, JavaScript, C/C++, PHP, Laravel, React**  
+- 📫 Reach me at: **shoyebreza@gmail.com**  
+- 🌐 Portfolio: [shoyebreza.github.io](https://shoyebreza.github.io/portfolio/)  
+
+---
+
+### 🛠️ Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,php,laravel,react,nextjs,python,django,html,css,js,git,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+![Shoyeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoyebreza&show_icons=true&theme=radical)
+
+---
+
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoyebreza&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=shoyebreza&theme=highcontrast&hide_border=true)
+
+---
+
+### 📊 Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoyebreza&theme=monokai)
+
+---
+
+### 🌐 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/shoyebreza/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shoyebreza@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/shoyeb.reza" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
 
 --------------------
 
